@@ -28,6 +28,7 @@ document-classifier/
 │   ├── src/                # Components, Services & Signals logic
 │   └── ...
 └── test_documents/         # Sample PDFs for testing classification & RAG
+```
 
 ## 🏗️ Tech Stack
 
