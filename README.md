@@ -33,7 +33,7 @@ document-classifier/
 ## 🏗️ Tech Stack
 
 ### Frontend
-* **Angular 18:** Intensive use of Signals for modern, high-performance reactivity.
+* **Angular 21:** Intensive use of Signals for modern, high-performance reactivity.
 * **PrimeNG:** Professional UI featuring `p-tree` for hierarchical navigation and `p-fileupload`.
 * **Tailwind CSS:** Custom "Dark Mode" design and responsive layout.
 
