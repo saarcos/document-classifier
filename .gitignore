@@ -1,0 +1,20 @@
+# --- Python / Backend ---
+backend/venv/
+backend/__pycache__/
+backend/*.py[cod]
+backend/.env
+backend/*.db
+backend/chroma_db/
+backend/storage/
+backend/temp_uploads/
+**/.env
+
+# --- Angular / Frontend ---
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.vscode/
+
+# --- System ---
+.DS_Store
+Thumbs.db
